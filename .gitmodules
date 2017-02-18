@@ -1,0 +1,3 @@
+[submodule "DictionaryForMIDs_Android"]
+	path = DictionaryForMIDs_Android
+	url = git@github.com:DictionaryForMIDs/Android.git

@@ -1,0 +1,2 @@
+include ':DictionaryForMIDs_Core'
+include ':DictionaryForMIDs_Android'
